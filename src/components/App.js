@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react'
 import SideNav from './SideNav';
 import MainSection from './MainSection';
@@ -27,4 +26,3 @@ const App = () => {
 
 
 export default App;
-
